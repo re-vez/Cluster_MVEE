@@ -1,2 +1,2 @@
-# Classification_MVEE
+# Classification via MVEE
 MSc dissertation project
