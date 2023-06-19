@@ -1,2 +1,2 @@
-# Classification via MVEE
+# Clustering via MVEE
 MSc dissertation project
